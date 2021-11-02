@@ -60,7 +60,7 @@ Make sure you README.md contains the **project name**, **team members** and is *
 **Please give access to the following github users, should your repo be private:** @frozeman, @marjorielyx, @Leondroids, @igorbarinov and @Hugoo
 
  
-## Prices! 💰
+## Prizes! 💰
  
 - 1st Place: $22,000 USD in LYXe tokens
  
