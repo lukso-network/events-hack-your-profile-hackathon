@@ -85,9 +85,6 @@ Software Engineer at LUKSO
 
 Igor Barinov, @igorbarinov
 Tech Lead, BlockScout
-
-//Alexandre Van de Sande, @avsa TBC
-//Co-founder at Unilogin and Advisor at Ethereum Foundation
  
  
 ## Judging Criteria
