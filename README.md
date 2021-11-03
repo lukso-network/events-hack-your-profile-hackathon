@@ -10,7 +10,7 @@ The core pieces of LUKSO are Universal Profiles based on [ERC725Account (LSP0)](
  
 ## Overview
 
-*LUKSO, the multiverse blockchain for the new creative economy is created by Fabian Vogelsteller, a former Lead Developer of Ethereum, author of the ERC20 and ERC725 smart contract standards, and developer of web3.js and the Mist Browser. LUKSO is a blockchain network where the worlds of fashion, gaming, design and social media intersect. LUSKO focuses on bringing Blockchain to the masses through its next level EVM based blockchain running the Casper FFG pure Proof of Stake consensus, new smart contract standards and tools to make developing for the new creative economy user-friendly and fun.*
+*LUKSO, the multiverse blockchain for the new creative economy is created by Fabian Vogelsteller, a former Lead Developer of Ethereum, author of the ERC20 and ERC725 smart contract standards, and developer of web3.js and the Mist Browser. LUKSO is a blockchain network where the worlds of fashion, gaming, design and social media intersect. LUKSO focuses on bringing Blockchain to the masses through its next level EVM based blockchain running the Casper FFG pure Proof of Stake consensus, new smart contract standards and tools to make developing for the new creative economy user-friendly and fun.*
 
 The LUKSO "Hack your Profile" Hackathon is the first-ever LUKSO hackathon!
 
