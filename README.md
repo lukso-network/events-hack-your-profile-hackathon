@@ -1,4 +1,4 @@
-# Join the LUKSO "Hack your Profile" Hackathon, 3rd-24th of November
+# Join the LUKSO "Hack your Profile" Hackathon, November 3rd-24th
 
 Welcome to the first ever LUKSO Hackathon!
 We have the basics ready and invite you to hack your profile!
