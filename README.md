@@ -22,7 +22,7 @@ This is a 3-week long online hackathon which will allow developers to build some
  
 **Submission**: November 3rd - November 24th (3 weeks)
 
-**Judging**: November 24th - December 1st (8 days)
+**Judging**: November 25th - December 1st (7 days)
  
 **Winner Announced**: December 2nd
  
