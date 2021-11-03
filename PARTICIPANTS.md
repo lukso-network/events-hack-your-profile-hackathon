@@ -12,3 +12,4 @@ Example listing:
 
 - Project: UP! only, Team: [@BonCloudboy](https://github.com/BonCloudboy)
 - Project: Politis, Team: [silesiacoin](https://github.com/silesiacoin): [@thomson159](https://github.com/thomson159), [@blazejkrzak](https://github.com/blazejkrzak), [@mxmar](https://github.com/mxmar), [@void404](https://github.com/VOID404), [@Wolmin](https://github.com/Wolmin), [@rekeye](https://github.com/rekeye)  
+- Project: GreenZone - NotForThe💰, Team: [@ClaudioZone](https://github.com/claudioZone), [@ankitkumar9018](https://github.com/ankitkumar9018), ...
