@@ -16,3 +16,4 @@ Example listing:
 - Project: Yeeldz, Team: [@visse509](https://github.com/visse509), [@vexkiddy](https://github.com/vexkiddy)
 - Project: Nomad, Team: [Dan](https://github.com/dan-nolan), Derek (Designer)
 - Project: UniversalPage, Team: [@jakeprins](https://github.com/jakeprins)
+- Project: ME, [@lukso-me](https://github.com/lukso-me-dao)
