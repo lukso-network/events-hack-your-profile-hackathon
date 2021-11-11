@@ -4,7 +4,7 @@ Welcome to the first ever LUKSO Hackathon!
 We have the basics ready and invite you to hack your profile!
 LUKSO is a new EVM Blockchain launching in the coming months. But its more than that, it comes with the core standards that enable a new creative  economy.
 
-The core pieces of LUKSO are Universal Profiles based on [ERC725 Account (LSP0)](https://github.com/lukso-network/LIPs/blob/main/LSPs/LSP-0-ERC725Account.md) and [LSP6 KeyManager](https://github.com/lukso-network/LIPs/blob/main/LSPs/LSP-6-KeyManager.md), as well as a [UniversalReceiver Delegate](https://github.com/lukso-network/LIPs/blob/main/LSPs/LSP-1-UniversalReceiver.md#specification-of-the-universalreceiverdelegate).
+The core pieces of LUKSO are Universal Profiles based on [ERC725Account (LSP0)](https://github.com/lukso-network/LIPs/blob/main/LSPs/LSP-0-ERC725Account.md) and [LSP6 KeyManager](https://github.com/lukso-network/LIPs/blob/main/LSPs/LSP-6-KeyManager.md), as well as a [UniversalReceiver Delegate](https://github.com/lukso-network/LIPs/blob/main/LSPs/LSP-1-UniversalReceiver.md#specification-of-the-universalreceiverdelegate).
 [You can read more about these pieces here](https://docs.lukso.tech/standards/introduction).
  
  
