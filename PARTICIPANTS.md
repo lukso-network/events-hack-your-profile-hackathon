@@ -17,3 +17,4 @@ Example listing:
 - Project: Nomad, Team: [@dan-nolan](https://github.com/dan-nolan), Derek (Designer)
 - Project: UniversalPage, Team: [@jakeprins](https://github.com/jakeprins)
 - Project: ME, Team: [@lukso-me-dao](https://github.com/lukso-me-dao)
+- Project: WeCode, Team: [@lykhonis](https://github.com/lykhonis)
