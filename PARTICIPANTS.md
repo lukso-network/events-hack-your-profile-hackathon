@@ -18,3 +18,4 @@ Example listing:
 - Project: UniversalPage, Team: [@jakeprins](https://github.com/jakeprins)
 - Project: ME, Team: [@lukso-me-dao](https://github.com/lukso-me-dao)
 - Project: WeCode, Team: [@lykhonis](https://github.com/lykhonis)
+- Project: AfricaMoon, Team: [@souleymane4k](https://github.com/souleymane4k)
