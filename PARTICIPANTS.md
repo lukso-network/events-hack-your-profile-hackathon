@@ -19,3 +19,4 @@ Example listing:
 - Project: ME, Team: [@lukso-me-dao](https://github.com/lukso-me-dao)
 - Project: WeCode, Team: [@lykhonis](https://github.com/lykhonis)
 - Project: Meta, Team: [@zhangmin007](https://github.com/zhangmin007)
+- Project: AfricaMoon, Team: [@souleymane4k](https://github.com/souleymane4k)
