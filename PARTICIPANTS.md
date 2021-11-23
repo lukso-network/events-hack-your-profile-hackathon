@@ -20,3 +20,4 @@ Example listing:
 - Project: WeCode, Team: [@lykhonis](https://github.com/lykhonis)
 - Project: Meta, Team: [@zhangmin007](https://github.com/zhangmin007)
 - Project: AfricaMoon, Team: [@souleymane4k](https://github.com/souleymane4k)
+- Project: LUKSOTASTIC, Team: [@fhildeb](https://github.com/fhildeb)
