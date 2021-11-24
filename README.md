@@ -14,7 +14,7 @@ The core pieces of LUKSO are Universal Profiles based on [ERC725 Account (LSP0)]
 
 The LUKSO "Hack your Profile" Hackathon is the first-ever LUKSO hackathon!
 
-This is a 3-week long online hackathon which will allow developers to build something amazing around [Universal Profiles](https://docs.lukso.tech/standards/Universal-Profiles). You can join solo or create a team of up to 5 members.
+This is an online hackathon which will allow developers to build something amazing around [Universal Profiles](https://docs.lukso.tech/standards/Universal-Profiles). You can join solo or create a team of up to 5 members.
  
  
  
