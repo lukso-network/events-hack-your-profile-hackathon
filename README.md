@@ -1,4 +1,4 @@
-# Join the LUKSO "Hack your Profile" Hackathon, November 3rd-24th
+# Join the LUKSO "Hack your Profile" Hackathon, November 3rd-29th
 
 Welcome to the first ever LUKSO Hackathon!
 We have the basics ready and invite you to hack your profile!
@@ -20,11 +20,11 @@ This is a 3-week long online hackathon which will allow developers to build some
  
 ## Key Dates
  
-**Submission**: November 3rd - November 24th (3 weeks)
+**Submission Deadline**: November 29th at 5pm CET
 
-**Judging**: November 25th - December 1st (7 days)
+**Judging**: November 30th - December 7th
  
-**Winner Announced**: December 2nd
+**Winner Announced**: December 8th
  
  
 ## Project Requirements
