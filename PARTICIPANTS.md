@@ -21,4 +21,4 @@ Example listing:
 - Project: Meta, Team: [@zhangmin007](https://github.com/zhangmin007)
 - Project: AfricaMoon, Team: [@souleymane4k](https://github.com/souleymane4k)
 - Project: LUKSOTASTIC, Team: [@fhildeb](https://github.com/fhildeb)
-- Project: Meta.Omni, Team: [@dohne12] (https://github.com/dohne12), [@x0protivol] (https://github.com/x0protivol/Meta.omni-Lukso-blockchain), [@ninja-fire] (https://github.com/ninja-fire), [@evgenyavetisian] (https://github.com/evgenyavetisian), [@bolajiscott] (https://github.com/bolajiscott)
+- Project: Meta.Omnifinery, Team: [@dohne12] (https://github.com/dohne12), [@x0protivol] (https://github.com/x0protivol/Meta.omni-Lukso-blockchain), [@ninja-fire] (https://github.com/ninja-fire), [@evgenyavetisian] (https://github.com/evgenyavetisian), [@bolajiscott] (https://github.com/bolajiscott)
