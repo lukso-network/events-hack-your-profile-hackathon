@@ -14,49 +14,49 @@ You can find all submitted projects in the [PARTICIPANTS](./PARTICIPANTS.md) fil
 ### [UP! Only](https://leber.world/)
 
 <p align="center">
-  <img width="460" src="./assets/leber.world_browse.png">
+  <a href="https://leber.world/"><img width="460" src="./assets/leber.world_browse.png"></a>
 </p>
 
 ### [Politis](https://politis-da543.web.app/)
 
 <p align="center">
-  <img width="460" src="./assets/politis-da543.png">
+  <a href="https://politis-da543.web.app/"><img width="460" src="./assets/politis-da543.png"></a>
 </p>
 
 ### [LUKSO.me - Universal name](https://lukso.me/)
 
 <p align="center">
-  <img width="460" src="./assets/lukso.me_.png">
+  <a href="https://lukso.me/"><img width="460" src="./assets/lukso.me_.png"></a>
 </p>
 
 ### [Yeeldz](https://yeeldz.vercel.app/)
 
 <p align="center">
-  <img width="260" src="./assets/yeeldz.vercel.png">
+  <a href="https://yeeldz.vercel.app/"><img width="260" src="./assets/yeeldz.vercel.png"></a>
 </p>
 
 ### [Nomad](https://mynomad.quest/)
 
 <p align="center">
-  <img width="460" src="./assets/mynomad.quest_.png">
+  <a href="https://mynomad.quest/"><img width="460" src="./assets/mynomad.quest_.png"></a>
 </p>
 
 ### [UniversalPage](https://www.universal.page/)
 
 <p align="center">
-  <img width="460" src="./assets/universal.page_editor.png">
+  <a href="https://www.universal.page/"><img width="460" src="./assets/universal.page_editor.png"></a>
 </p>
 
 ### [WeCode](https://lukso-hack-we-code.vercel.app/)
 
 <p align="center">
-  <img width="460" src="./assets/lukso-hack-we-code.vercel.png">
+  <a href="https://lukso-hack-we-code.vercel.app/"><img width="460" src="./assets/lukso-hack-we-code.vercel.png"></a>
 </p>
 
 ### [LUKSOTASTIC](https://luksotastic.netlify.app/)
 
 <p align="center">
-  <img width="460" src="./assets/luksotastic.netlify.png">
+  <a href="https://luksotastic.netlify.app/"><img width="460" src="./assets/luksotastic.netlify.png"></a>
 </p>
 
 ### Meta.Omnifinery
