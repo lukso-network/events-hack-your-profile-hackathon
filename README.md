@@ -9,7 +9,27 @@ The core pieces of LUKSO are Universal Profiles based on [ERC725 Account (LSP0)]
 
 ## Projects
 
-You can find all submitted projects in the [PARTICIPANTS](./PARTICIPANTS.md) file.
+Check out the [winners announcement on Medium](https://medium.com/lukso/winners-of-the-lukso-hack-your-profile-hackathon-5f8b90504de9).
+
+### 🥇 [Yeeldz](https://yeeldz.vercel.app/)
+
+<p align="center">
+  <a href="https://yeeldz.vercel.app/"><img width="260" src="./assets/yeeldz.vercel.png"></a>
+</p>
+
+### 🥈 [UniversalPage](https://www.universal.page/)
+
+<p align="center">
+  <a href="https://www.universal.page/"><img width="560" src="./assets/universal.page_editor.png"></a>
+</p>
+
+### 🥉 [Nomad](https://mynomad.quest/)
+
+<p align="center">
+  <a href="https://mynomad.quest/"><img width="560" src="./assets/mynomad.quest_.png"></a>
+</p>
+
+---
 
 ### [UP! Only](https://leber.world/)
 
@@ -27,24 +47,6 @@ You can find all submitted projects in the [PARTICIPANTS](./PARTICIPANTS.md) fil
 
 <p align="center">
   <a href="https://lukso.me/"><img width="560" src="./assets/lukso.me_.png"></a>
-</p>
-
-### [Yeeldz](https://yeeldz.vercel.app/)
-
-<p align="center">
-  <a href="https://yeeldz.vercel.app/"><img width="260" src="./assets/yeeldz.vercel.png"></a>
-</p>
-
-### [Nomad](https://mynomad.quest/)
-
-<p align="center">
-  <a href="https://mynomad.quest/"><img width="560" src="./assets/mynomad.quest_.png"></a>
-</p>
-
-### [UniversalPage](https://www.universal.page/)
-
-<p align="center">
-  <a href="https://www.universal.page/"><img width="560" src="./assets/universal.page_editor.png"></a>
 </p>
 
 ### [WeCode](https://lukso-hack-we-code.vercel.app/)
@@ -66,6 +68,8 @@ You can find all submitted projects in the [PARTICIPANTS](./PARTICIPANTS.md) fil
 </p>
 
 ### SearchByUniversalProfileImage
+
+You can find all submitted projects in the [PARTICIPANTS](./PARTICIPANTS.md) file.
 
 ---
 
