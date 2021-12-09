@@ -59,7 +59,11 @@ You can find all submitted projects in the [PARTICIPANTS](./PARTICIPANTS.md) fil
   <a href="https://luksotastic.netlify.app/"><img width="560" src="./assets/luksotastic.netlify.png"></a>
 </p>
 
-### Meta.Omnifinery
+### [Meta.Omnifinery](https://github.com/x0protivol/Meta.omni-Lukso-blockchain)
+
+<p align="center">
+  <a href="https://github.com/x0protivol/Meta.omni-Lukso-blockchain"><img width="200" src="./assets/metaomni.jpg"></a>
+</p>
 
 ### SearchByUniversalProfileImage
 
